@@ -2,7 +2,7 @@
 
 This is a simple Rock Paper Scissors game built as part of The Odin Project's Foundations course.
 
-It's a basic JavaScript project that runs in the **browser console**, using `prompt()` to get input from the user and `console.log()` to display the results.
+It's a basic JavaScript project that runs in the **browser console**, using `prompt()` to get input from the user and `alert()` to display the results.
 
 ---
 
